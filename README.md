@@ -3,3 +3,5 @@
 # Shop-Slider
 Slick slider: https://github.com/kenwheeler/slick
 
+Demo: https://mahdimotallebi.github.io/Shop-Slider/
+
